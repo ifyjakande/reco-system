@@ -47,6 +47,3 @@ certifi
 
 ## Sample Output 📊
 ![Pipeline Results](mongodb-data1.jpg)
-
-## License 📄
-MIT

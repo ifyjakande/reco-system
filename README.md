@@ -43,10 +43,10 @@ certifi
 - MongoDB Integration for Results Storage 💾
 
 ## System Architecture 🏗️
-![Pipeline Architecture](/reco-system/architecture.jpg)
+![Pipeline Architecture](architecture.jpg)
 
 ## Sample Output 📊
-![Pipeline Results](/reco-system/mongodb-data1.jpg)
+![Pipeline Results](mongodb-data1.jpg)
 
 ## License 📄
 MIT
